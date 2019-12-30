@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doctor-project/static/css/main.0ed15214.chunk.css",
-    "main.js": "/doctor-project/static/js/main.42dded43.chunk.js",
-    "main.js.map": "/doctor-project/static/js/main.42dded43.chunk.js.map",
+    "main.js": "/doctor-project/static/js/main.aab4cbb9.chunk.js",
+    "main.js.map": "/doctor-project/static/js/main.aab4cbb9.chunk.js.map",
     "runtime-main.js": "/doctor-project/static/js/runtime-main.a8ffcf79.js",
     "runtime-main.js.map": "/doctor-project/static/js/runtime-main.a8ffcf79.js.map",
     "static/js/2.89de1902.chunk.js": "/doctor-project/static/js/2.89de1902.chunk.js",
     "static/js/2.89de1902.chunk.js.map": "/doctor-project/static/js/2.89de1902.chunk.js.map",
     "index.html": "/doctor-project/index.html",
-    "precache-manifest.54df03edb55404d4d3224951ebbf2c87.js": "/doctor-project/precache-manifest.54df03edb55404d4d3224951ebbf2c87.js",
+    "precache-manifest.a1002516079171d4a2d2d9f046e4d231.js": "/doctor-project/precache-manifest.a1002516079171d4a2d2d9f046e4d231.js",
     "service-worker.js": "/doctor-project/service-worker.js",
     "static/css/main.0ed15214.chunk.css.map": "/doctor-project/static/css/main.0ed15214.chunk.css.map",
     "static/js/2.89de1902.chunk.js.LICENSE": "/doctor-project/static/js/2.89de1902.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a8ffcf79.js",
     "static/js/2.89de1902.chunk.js",
     "static/css/main.0ed15214.chunk.css",
-    "static/js/main.42dded43.chunk.js"
+    "static/js/main.aab4cbb9.chunk.js"
   ]
 }
