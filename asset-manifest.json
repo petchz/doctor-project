@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doctor-project/static/css/main.0ed15214.chunk.css",
+    "main.js": "/doctor-project/static/js/main.b8367047.chunk.js",
+    "main.js.map": "/doctor-project/static/js/main.b8367047.chunk.js.map",
+    "runtime-main.js": "/doctor-project/static/js/runtime-main.a8ffcf79.js",
+    "runtime-main.js.map": "/doctor-project/static/js/runtime-main.a8ffcf79.js.map",
+    "static/js/2.89de1902.chunk.js": "/doctor-project/static/js/2.89de1902.chunk.js",
+    "static/js/2.89de1902.chunk.js.map": "/doctor-project/static/js/2.89de1902.chunk.js.map",
+    "index.html": "/doctor-project/index.html",
+    "precache-manifest.3fd848f950a8d7a2203033a8d0f90f51.js": "/doctor-project/precache-manifest.3fd848f950a8d7a2203033a8d0f90f51.js",
+    "service-worker.js": "/doctor-project/service-worker.js",
+    "static/css/main.0ed15214.chunk.css.map": "/doctor-project/static/css/main.0ed15214.chunk.css.map",
+    "static/js/2.89de1902.chunk.js.LICENSE": "/doctor-project/static/js/2.89de1902.chunk.js.LICENSE",
+    "static/media/logo.svg": "/doctor-project/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8ffcf79.js",
+    "static/js/2.89de1902.chunk.js",
+    "static/css/main.0ed15214.chunk.css",
+    "static/js/main.b8367047.chunk.js"
+  ]
+}
