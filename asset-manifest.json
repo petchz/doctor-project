@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/doctor-project/static/css/main.269225a5.chunk.css",
-    "main.js": "/doctor-project/static/js/main.f11d8bc7.chunk.js",
-    "main.js.map": "/doctor-project/static/js/main.f11d8bc7.chunk.js.map",
+    "main.js": "/doctor-project/static/js/main.9f601401.chunk.js",
+    "main.js.map": "/doctor-project/static/js/main.9f601401.chunk.js.map",
     "runtime-main.js": "/doctor-project/static/js/runtime-main.a8ffcf79.js",
     "runtime-main.js.map": "/doctor-project/static/js/runtime-main.a8ffcf79.js.map",
-    "static/js/2.52a7f6a5.chunk.js": "/doctor-project/static/js/2.52a7f6a5.chunk.js",
-    "static/js/2.52a7f6a5.chunk.js.map": "/doctor-project/static/js/2.52a7f6a5.chunk.js.map",
+    "static/js/2.ca8b43f9.chunk.js": "/doctor-project/static/js/2.ca8b43f9.chunk.js",
+    "static/js/2.ca8b43f9.chunk.js.map": "/doctor-project/static/js/2.ca8b43f9.chunk.js.map",
     "index.html": "/doctor-project/index.html",
-    "precache-manifest.bc46fb81ae6b26101a35fb10b1bf21fe.js": "/doctor-project/precache-manifest.bc46fb81ae6b26101a35fb10b1bf21fe.js",
+    "precache-manifest.2242851a19612a2c055181ab2aacf0c7.js": "/doctor-project/precache-manifest.2242851a19612a2c055181ab2aacf0c7.js",
     "service-worker.js": "/doctor-project/service-worker.js",
     "static/css/main.269225a5.chunk.css.map": "/doctor-project/static/css/main.269225a5.chunk.css.map",
-    "static/js/2.52a7f6a5.chunk.js.LICENSE": "/doctor-project/static/js/2.52a7f6a5.chunk.js.LICENSE"
+    "static/js/2.ca8b43f9.chunk.js.LICENSE": "/doctor-project/static/js/2.ca8b43f9.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.a8ffcf79.js",
-    "static/js/2.52a7f6a5.chunk.js",
+    "static/js/2.ca8b43f9.chunk.js",
     "static/css/main.269225a5.chunk.css",
-    "static/js/main.f11d8bc7.chunk.js"
+    "static/js/main.9f601401.chunk.js"
   ]
 }
