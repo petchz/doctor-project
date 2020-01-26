@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71b162e40735c8e4a36adcdecfcd0bb8",
+    "revision": "622f0a5f3957780f9eca814a55249e39",
     "url": "/icem-2020/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icem-2020/static/css/2.9889bb57.chunk.css"
   },
   {
-    "revision": "b3c803007417201e841b",
+    "revision": "5ba4f28923a431ecfa8b",
     "url": "/icem-2020/static/css/main.d606b452.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/icem-2020/static/js/2.93c9cc92.chunk.js.LICENSE"
   },
   {
-    "revision": "b3c803007417201e841b",
-    "url": "/icem-2020/static/js/main.191a9ef8.chunk.js"
+    "revision": "5ba4f28923a431ecfa8b",
+    "url": "/icem-2020/static/js/main.08b507f2.chunk.js"
   },
   {
     "revision": "29acbadf551bf53aac7d",
