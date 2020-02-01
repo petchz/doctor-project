@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e6dac09552e9b4567301a1901505dcd",
+    "revision": "22f6c21439d7edb3083dd815d29bfc12",
     "url": "/icem-2020/index.html"
   },
   {
